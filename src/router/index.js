@@ -37,32 +37,32 @@ const routes = [
             //         icon: 'Unlock'
             //     },
             //     children: [
-            //         {
-            //             path: '',
-            //             alias: ['admin'],
-            //             meta: {
-            //                 id: '1',
-            //                 name: '账号管理',
-            //                 icon: 'User',
-            //                 path: '/auth/admin',
-            //                 describe: '管理员可以进行设置'
-            //             },
-            //             component: Admin
-            //         },
-            //         //已废除代码
+                    // {
+                    //     path: '',
+                    //     alias: ['admin'],
+                    //     meta: {
+                    //         id: '1',
+                    //         name: '账号管理',
+                    //         icon: 'User',
+                    //         path: '/auth/admin',
+                    //         describe: '管理员可以进行设置'
+                    //     },
+                    //     component: Admin
+                    // },
+                    //已废除代码
 
-            //         // {
-            //         //     path: 'group',
-            //         //     meta: {
-            //         //         id: '2',
-            //         //         name: '菜单管理',
-            //         //         icon: 'Setting',
-            //         //         path: '/auth/group',
-            //         //         describe: '菜单规则'
-            //         //     },
-            //         //     component: Group
-            //         // }
-            //     ]
+                    // {
+                    //     path: 'group',
+                    //     meta: {
+                    //         id: '2',
+                    //         name: '菜单管理',
+                    //         icon: 'Setting',
+                    //         path: '/auth/group',
+                    //         describe: '菜单规则'
+                    //     },
+                    //     component: Group
+                    // }
+                // ]
             // },
 
 
